@@ -1,1 +1,1 @@
-fors function debugs
+dissembler of public objects
